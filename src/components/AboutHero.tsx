@@ -1,5 +1,5 @@
 
-import { ShieldCheck, EyeCheck, UserRound } from "lucide-react";
+import { ShieldCheck, Eye, UserRound } from "lucide-react";
 
 const AboutHero = () => {
   return (

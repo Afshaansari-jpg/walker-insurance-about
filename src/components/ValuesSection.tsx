@@ -1,5 +1,5 @@
 
-import { ShieldCheck, EyeCheck, UserRound } from "lucide-react";
+import { ShieldCheck, Eye, UserRound } from "lucide-react";
 
 const ValuesSection = () => {
   const values = [
@@ -9,7 +9,7 @@ const ValuesSection = () => {
       description: "Built on years of experience and integrity in financial services."
     },
     {
-      icon: EyeCheck,
+      icon: Eye,
       title: "Clarity",
       description: "Clear communication and transparent processes every step of the way."
     },
