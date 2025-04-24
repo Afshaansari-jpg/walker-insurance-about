@@ -7,7 +7,7 @@ const AboutHero = () => {
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <h1 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-walker-blue">
+            <h1 className="text-4xl md:text-5xl font-bold text-[#0047AB]">
               Insurance That Makes Sense
             </h1>
             <p className="text-lg text-gray-600 leading-relaxed">
@@ -15,8 +15,8 @@ const AboutHero = () => {
               accessible, and aligned with your goals. Our expertise is 
               in crafting protection that fits your unique journey.
             </p>
-            <button className="px-8 py-3 bg-walker-blue text-white rounded-lg 
-              hover:bg-blue-500 transition-colors duration-300 shadow-lg">
+            <button className="px-8 py-3 bg-[#0047AB] text-white rounded-lg 
+              hover:bg-blue-600 transition-colors duration-300 shadow-lg">
               Schedule a Consultation
             </button>
           </div>
